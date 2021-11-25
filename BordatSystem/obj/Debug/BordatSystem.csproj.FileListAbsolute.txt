@@ -1,0 +1,10 @@
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\bin\Debug\BordatSystem.exe.config
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\bin\Debug\BordatSystem.exe
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\bin\Debug\BordatSystem.pdb
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.csprojAssemblyReference.cache
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.MainForm.resources
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.Properties.Resources.resources
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.csproj.GenerateResource.cache
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.exe
+C:\Users\Zadamantiy\source\repos\BordatSystem\BordatSystem\obj\Debug\BordatSystem.pdb
